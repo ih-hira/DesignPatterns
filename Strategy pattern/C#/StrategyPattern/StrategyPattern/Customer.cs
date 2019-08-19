@@ -5,7 +5,7 @@ namespace StrategyPattern
 {
     class Customer
     {
-        private IList<double> drinks;
+        private  IList<double> drinks;
 
         // Get/Set Strategy
         public IBillingStrategy Strategy { get; set; }
