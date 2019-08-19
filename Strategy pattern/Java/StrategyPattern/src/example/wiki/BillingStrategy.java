@@ -1,4 +1,4 @@
-package java;
+package example.wiki;
 
 @FunctionalInterface
 interface BillingStrategy {

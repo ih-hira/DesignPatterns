@@ -1,4 +1,4 @@
-package java;
+package example.wiki;
 
 public class StrategyPattern {
 	

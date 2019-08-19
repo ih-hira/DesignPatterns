@@ -1,4 +1,4 @@
-package java;
+package example.wiki;
 
 import java.util.ArrayList;
 
