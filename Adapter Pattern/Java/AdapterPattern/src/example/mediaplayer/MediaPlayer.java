@@ -9,6 +9,7 @@ package example.mediaplayer;
  *
  * @author ih_hi
  */
+//Adaptee
 public interface MediaPlayer {
 
     public void play();

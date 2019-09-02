@@ -9,6 +9,8 @@ package example.mediaplayer;
  *
  * @author ih_hi
  */
+
+//Target Interface
 public interface AdvancedMediaPlayer {
 
     public void playVlc();
