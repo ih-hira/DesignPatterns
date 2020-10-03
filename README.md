@@ -21,7 +21,7 @@ What is Design Pattern ?
 # List of Tutorials
 Strategy Pattern [p-1]:
 * [Strategy Pattern - Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)
-* [Strategy Pattern - Tutorialspoint](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm)
+* [Strategy Pattern - TutorialsPoint](https://www.tutorialspoint.com/design_pattern/strategy_pattern.htm)
 * [Strategy Pattern - GeeksForGeeks](https://www.geeksforgeeks.org/strategy-pattern-set-1/)
 
 Adapter Pattern:
@@ -34,6 +34,9 @@ Observer Pattern:
 
 Decorator Pattern:
 * [Decorator Pattern - GeeksforGeeks](https://www.geeksforgeeks.org/decorator-pattern-set-3-coding-the-design/)
+
+Factory Pattern:
+* [Factory Pattern - TutorialsPoint](https://www.tutorialspoint.com/design_pattern/factory_pattern.htm)
 
 # Book References
 * Head First Design Patterns 
